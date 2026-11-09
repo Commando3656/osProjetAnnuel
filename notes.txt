@@ -1,0 +1,2 @@
+Target platform : i686-elf
+https://www.youtube.com/watch?v=dG8PV6xqm4s&list=PLFjM7v6KGMpiH2G-kT781ByCNC_0pKpPN&index=5
