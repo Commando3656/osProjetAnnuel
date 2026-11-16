@@ -1,7 +1,7 @@
 ASM=nasm
 CC=gcc
-CC16=/home/theodore/watcom/binl/wcc
-L16=/home/theodore/watcom/binl/wlink
+CC16=wcc
+L16=wlink
 
 SRC_DIR=src
 TOOLS_DIR=tools

@@ -1,7 +1,7 @@
 BUILD_DIR?=build/
 ASM?=nasm
-CC16?=/home/theodore/watcom/binl/wcc
-LD16?=/home/theodore/watcom/binl/wlink
+CC16?=wcc
+LD16?=wlink
 CFLAGS16?=-4 -d3 -s -wx -ms -zl -zq
 ASMFLAGS?=-f obj
 
